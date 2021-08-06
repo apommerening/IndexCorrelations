@@ -1,1 +1,3 @@
-# IndexCorrelations
+# Repository relating to the article entitled "Spatial patterns of correlation between conspecific species and size diversity in forest ecosystems"
+
+The data are organised as follows: Tree	(tree number), x [m], y [m]	and stem diameter at 1.3 m above soil level (dbh in cm), species, height [m]. The R srcipt is quite self-explanatory. For questions relating to the data please contact Hongxiang Wang (wanghongxiang168@126.com), Yanbo Hu (hyanbo@caf.ac.cn) and Xiaohong Zhang (zhangxh@ifrit.ac.cn). For questions about the R script please contact Arne Pommerening (arne.pommerening@slu.se or arne.pommerening@gmail.com).
